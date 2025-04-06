@@ -1,20 +1,24 @@
+# This repo is now moved to [YumeSoft/Robocar](https://github.com/YumeSoft/Robocar-Microcontroller)
+
+---
+
 # Arduino RC Car
 
 A remote-controlled car project using Arduino UNO and L298N Motor Controller.
 
 ## Overview
 
-This project implements a remote-controlled car with two motors:
-- One motor for driving (propulsion)
-- One motor for steering
+This project implements a remote-controlled car with 2 pairs of motors:
+- 2 on the left
+- 2 on the right
 
 ## Hardware Requirements
 
 - Arduino UNO
 - L298N Motor Controller
-- Two DC motors
+- 4 DC motors
 - RC Receiver
-- Power supply for motors
+- Power supply for motors 3 18650 vbattery total of 11 Volts
 - Chassis and mechanical components
 - Connecting wires
 
